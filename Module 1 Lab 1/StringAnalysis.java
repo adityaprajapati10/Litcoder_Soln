@@ -32,7 +32,6 @@ public class StringAnalysis { // Change this class name to "Main" when you on li
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter a string: ");
         String input = scanner.nextLine();
         System.out.println();
         analyzeString(input);
