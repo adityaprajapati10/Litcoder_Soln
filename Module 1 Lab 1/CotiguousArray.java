@@ -32,8 +32,6 @@ public class CotiguousArray {  // Change this class name to "Main" when you on l
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
-        System.out.println("Enter space-separated numbers:");
         String input = sc.nextLine();
         String[] numsStr = input.split("\\s+");
         int[] nums = new int[numsStr.length];
