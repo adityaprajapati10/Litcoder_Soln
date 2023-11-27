@@ -1,5 +1,5 @@
 import java.util.*;
-public class LongestSubstring {
+public class LongestSubstring { // Change this class name to "Main" when you on litcoder
     
     public static String check(char c, String st){
         String s = "";
