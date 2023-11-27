@@ -1,5 +1,5 @@
 import java.util.*;
-public class CustomStack {
+public class CustomStack {  // Change this class name to "Main" when you on litcoder
     
     static Scanner in = new Scanner(System.in);
     private static Stack<String> stack = new Stack<>();
