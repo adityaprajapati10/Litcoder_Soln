@@ -1,6 +1,6 @@
 import java.util.*;
 
-class candyScanner {
+class candyScanner {  // Change this class name to "Main" when you on litcoder
     public static int minStepsToReachTargetSweetness(int target, List<Integer> candies) {
         PriorityQueue<Integer> minHeap = new PriorityQueue<>(candies);
 
