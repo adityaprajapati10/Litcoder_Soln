@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class SubseqMaximizer {
+public class SubseqMaximizer { // Change this class name to "Main" when you on litcoder
     public static long maximumSubsequenceCount(String text, String pattern) {
         long res = 0, cnt1 = 0, cnt2 = 0;
         for (char c : text.toCharArray()) {
