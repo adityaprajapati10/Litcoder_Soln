@@ -1,5 +1,5 @@
 import java.util.*;
-public class SumWithUnits {
+public class SumWithUnits {  // Change this class name to "Main" when you on litcoder
     public static int minimumNumbers(int num, int k) {
         if (num == 0) return 0;
         for (int i = 1; i <= num; i++) {
