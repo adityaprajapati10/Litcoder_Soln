@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LegoBlocks {
+public class LegoBlocks {   // Change this class name to "Main" when you on litcoder
     static final int MOD = 1000000007;
     static final int MAXN = 1000;
 
