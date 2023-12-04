@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ClumsyFactorial {
+public class ClumsyFactorial { // Change this class name to "Main" when you on litcoder
     
     public static int clumsy(int N) {
         if (N <= 2) {
