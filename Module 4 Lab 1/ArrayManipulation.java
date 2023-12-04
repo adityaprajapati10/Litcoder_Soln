@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ArrayManipulation {
+public class ArrayManipulation { // Change this class name to "Main" when you on litcoder
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
