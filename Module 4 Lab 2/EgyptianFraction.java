@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class EgyptianFraction {
+public class EgyptianFraction { // Change this class name to "Main" when you on litcoder
     public static void egyptianFraction(int n, int d) {
         if (d == 0 || n == 0) {
             return;
