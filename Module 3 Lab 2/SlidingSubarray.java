@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SlidingSubarray {
+public class SlidingSubarray { // Change this class name to "Main" when you on litcoder
 
     public static List<Integer> slidingSubarrayBeauty(List<Integer> arr, int k, int n) {
         List<Integer> result = new ArrayList<>();
