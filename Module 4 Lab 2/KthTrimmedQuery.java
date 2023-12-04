@@ -42,7 +42,7 @@ class Solution {
     }
 }
 
-public class KthTrimmedQuery {
+public class KthTrimmedQuery { // Change this class name to "Main" when you on litcoder
     public static void main(String[] args) {
         Solution solution = new Solution();
         Scanner scanner = new Scanner(System.in);
