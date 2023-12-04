@@ -47,7 +47,7 @@ class Trie {
     }
 }
 
-public class NoPrefixSet {
+public class NoPrefixSet { // Change this class name to "Main" when you on litcoder
     static boolean isGoodPassword(List<String> passwords) {
         Trie trie = new Trie();
         for (String password : passwords) {
